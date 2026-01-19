@@ -1,0 +1,19 @@
+📱 Ever wondered what your WhatsApp chats actually say about your conversations?
+That curiosity led to building WhatsApp Chat Analyser — an end-to-end data analysis tool that turns raw WhatsApp chat exports (including group chats) into a powerful visual dashboard 📊.
+🔍 What insights does it unlock?
+📩 Total texts, words, media, and links shared
+😀 Most commonly used emojis
+☁️ WordClouds to instantly spot trending topics
+📆 Weekly & Monthly activity trends
+👤 User-wise analysis to understand group participation
+📈 Clean, interactive visualizations for better interpretation
+🛠️ Tech Stack Behind the Scenes:
+Python
+Pandas
+Matplotlib & Seaborn
+Streamlit (deployment & UI)
+PyCharm
+This project was a great exercise in data cleaning, exploratory data analysis, and building a deployable analytics product from scratch.
+🔗 Explore the project:
+Live App: https://lnkd.in/g_iinTHC
+Feedback and suggestions are always welcome — would love to know what feature you’d add next 👀
